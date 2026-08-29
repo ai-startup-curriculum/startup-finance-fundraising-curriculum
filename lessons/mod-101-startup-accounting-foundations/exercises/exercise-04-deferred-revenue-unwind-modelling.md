@@ -32,7 +32,7 @@ Produce the following in a spreadsheet:
 4. **Short-term vs. long-term split.** For each month-end, compute the portion of the ending DR balance that will unwind (i.e., be recognised as revenue) within the next 12 months. That is short-term deferred revenue. The remainder (only relevant for multi-year contracts) is long-term.
 5. **Roll-forward disclosure.** A single-table quarterly roll-forward for each of Q1-Q4:
    - Beginning deferred revenue
-   - + Additions from billings
+   - \+ Additions from billings
    - − Revenue recognised
    - ± Modifications (state whether zero this quarter)
    - = Ending deferred revenue
