@@ -30,7 +30,7 @@ Consider two SAFEs on a pre-close cap table. Both are pre-money legacy, each is 
 
 - Let founder pre-money common = 8,000,000 shares. Pool assumed for the priced round = 1,000,000 shares (10% of a post-money target — we'll take it as given for now). Both SAFEs contribute shares to be solved.
 - Conversion price per SAFE = `$5,000,000 / (8,000,000 + 1,000,000 + SAFE1 shares + SAFE2 shares)`. Both SAFEs use the same price because they share the cap.
-- Each SAFE invests $500,000, so each buys `$500,000 / price` shares. If SAFE1 and SAFE2 have the same investment and cap, they buy the same share count. Call it `s`. Total SAFE shares = `2s`.
+- Each SAFE invests $500,000, so each buys `$500,000 / price` shares. If SAFE1 and SAFE2 have the same investment and cap, they buy the same share count. Call it *s*. Total SAFE shares = *2s*.
 - Substitute: `price = $5,000,000 / (9,000,000 + 2s)`, and `s × price = $500,000`, so `s = $500,000 × (9,000,000 + 2s) / $5,000,000 = 0.1 × (9,000,000 + 2s) = 900,000 + 0.2s`, so `0.8s = 900,000`, so `s = 1,125,000`.
 - Each SAFE holder gets 1,125,000 shares. Both SAFE holders combined get 2,250,000 shares. Pre-money FD (post-conversion, pre-new-money) = 8,000,000 + 1,000,000 + 2,250,000 = 11,250,000.
 - Each SAFE holder's percentage of pre-money-FD = 1,125,000 / 11,250,000 = 10.0%. Combined SAFE percentage = 20.0%.

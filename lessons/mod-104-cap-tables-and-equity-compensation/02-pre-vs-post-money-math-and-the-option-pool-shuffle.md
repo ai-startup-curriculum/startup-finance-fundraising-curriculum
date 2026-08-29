@@ -120,7 +120,7 @@ Number 3 is the leverage move: the pre-money valuation is a headline number that
 
 The NVCA model term sheet phrases the pool as:
 
-> *"Immediately prior to the Closing, an aggregate of __\_\_\_\__ shares of Common Stock shall be reserved for issuance to employees, directors and consultants pursuant to the Company's stock option plan (the 'Option Pool'), which reservation shall represent __\_\_\_\_% of the Company's fully diluted post-Closing capitalization."*
+> *"Immediately prior to the Closing, an aggregate of **\_\_\_\_** shares of Common Stock shall be reserved for issuance to employees, directors and consultants pursuant to the Company's stock option plan (the 'Option Pool'), which reservation shall represent **\_\_\_\_**% of the Company's fully diluted post-Closing capitalization."*
 
 Read that closely. "Immediately prior to the Closing" — that is the pre-money placement. "__\_\_% of the Company's fully diluted post-Closing capitalization" — that is the target as a percent of post-money. The construction is a percentage target on a post-money base achieved by a pre-money expansion — which is the shuffle.
 
