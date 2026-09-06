@@ -52,7 +52,7 @@ Specifically:
 
 ## Reference
 
-- `resources.md` — planned; the citable primary sources (Delaware General Corporation Law, IRC Sections 409A, 422, 83, 1202, SEC Rule 701 and Form S-8, NVCA model financing documents), the practitioner content (Carta and Pave benchmark reports, Cooley GO, Wilson Sonsini's Term Sheet Generator), and the industry canon behind the module.
+- [`resources.md`](resources.md) — the citable primary sources (Delaware General Corporation Law, IRC Sections 409A, 422, 83, 1202, SEC Rule 701 and Form S-8, NVCA model financing documents), the practitioner content (Carta and Pave benchmark reports, Cooley GO, Wilson Sonsini's Term Sheet Generator), and the industry canon behind the module.
 
 ## Ownership boundary — economics vs. policy
 
