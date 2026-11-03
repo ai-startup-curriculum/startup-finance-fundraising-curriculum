@@ -1,7 +1,7 @@
 # Ai Startup · Startup Finance & Fundraising — Curriculum
 
 <!-- aicg:site-banner -->
-> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum).
+> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum) · [Workforce](https://github.com/ai-workforce-curriculum).
 <!-- /aicg:site-banner -->
 
 Deep functional pillar for the capital branch of the startup dependency graph — **Startup Accounting → Unit Economics & Cohort Modeling → Three-Statement Model & Driver-Based Forecasting → Cap Tables & Equity Comp → Convertible Instruments → Valuation → Fundraising Strategy → Term Sheets → Runway & Bridge Financing → Board Governance → Finance Operations**. Covers IDEA-stage founder-math through the pre-IPO CFO seat.
